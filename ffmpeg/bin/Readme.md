@@ -1,0 +1,1 @@
+Extraia cada um dos zips.
